@@ -170,7 +170,13 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
                           <div class="schedule_detail">
                             <div class="schedule_event_title">{{item.title}}</div>
                             <div class="schedule_event_meta">
-                              <div class="schedule_event_description">{{item.duration}}</div>
+                              <div class="schedule_event_description">{{item.duration}}
+                                <dom-if if="{{item.speaker}}">
+                                  <template>
+                                    / {{item.speaker.0.name}}
+                                  </template>
+                                </dom-if>
+                              </div>
                             </div>
                           </div>
                         </div>
