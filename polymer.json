@@ -21,7 +21,7 @@
     "rules": ["polymer-2"]
   },
   "builds": [{
-    "name": "tfxkl18",
+    "name": "wtmkl18",
     "bundle": false,
     "js": {"minify": false, "compile": true},
     "css": {"minify": true},
