@@ -39,11 +39,7 @@ handlers:
 - url: /wtmkl18.*
   script: main.app
   secure: always
-
-- url: /tfxkl.*
-  script: main.app
-  secure: always 
-
+  
 - url: /
   static_files: build/wtmkl18/index.html
   upload: build/wtmkl18/index.html
