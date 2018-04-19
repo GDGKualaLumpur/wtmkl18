@@ -79,10 +79,6 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         vertical-align: middle;
       }
 
-      /* .nav-list:last-of-type {
-        margin-right: 24px;
-      } */
-
       .nav-list {
         height: 100%;
         display: -webkit-box;
@@ -125,11 +121,11 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
       .nav-list a:hover,
       .nav-list.no-tab a.iron-selected:hover,
       .link:hover {
-        border-bottom: 2px solid #ffe0d3;
+        border-bottom: 2px solid #ddfbf4;
       }
 
       .nav-list a.iron-selected {
-        border-bottom: 2px solid #ef6c38;
+        border-bottom: 2px solid #51baa2;
       }
 
       .nav-list.no-tab img {
@@ -333,12 +329,12 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
       <template>
         <app-drawer opened="{{drawerOpened}}" tabindex="0" id="drawer" slot="drawer" swipe-open>
           <app-toolbar>
-            <img src="[[rootPath]]images/tensorflow.svg" width="56.5" height="32">
+            <img src="[[rootPath]]images/manifest/wtm-touch-icon-4x.png" width="56" height="56">
           </app-toolbar>
           <iron-selector selected="[[page]]" attr-for-selected="name" class="drawer-list" role="navigation">
             <a name="home" href="[[rootPath]]">Home</a>
             <a name="schedule" href="[[rootPath]]schedule">Schedule</a>
-            <a name="attending" href="[[rootPath]]attending">Attending</a>
+            <!-- <a name="attending" href="[[rootPath]]attending">Attending</a> -->
             <a name="registration" href="https://www.meetup.com/GDGKualaLumpur" target="_blank">Registration</a>
           </iron-selector>
         </app-drawer>
@@ -349,23 +345,23 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
       <app-header slot="header" fixed condenses effects="waterfall">
         <app-toolbar id="header">
           <paper-icon-button icon="gdg-icons:menu" on-tap="_toggleDrawer"></paper-icon-button>
-          <div class="header_logo">
-            <img src="[[rootPath]]images/tensorflow.svg" width="38" height="38">
-          </div>
+          <a class="header_logo" href="[[rootPath]]">
+            <img src="[[rootPath]]images/manifest/wtm-touch-icon-4x.png" width="38" height="38">
+          </a>
           <div style="flex:1"></div>
           <iron-selector selected="[[page]]" attr-for-selected="name" class="nav-list" role="navigation">
             <a name="home" href="[[rootPath]]">Home</a>
             <a name="schedule" href="[[rootPath]]schedule">Schedule</a>
-            <a name="attending" href="[[rootPath]]attending">Attending</a>
+            <!-- <a name="attending" href="[[rootPath]]attending">Attending</a> -->
           </iron-selector>
-          <a class="link" name="registration" href="https://www.meetup.com/GDGKualaLumpur" target="_blank">Registration</a>
+          <a class="link" name="registration" href="https://wtmkl18.peatix.com" target="_blank">Registration</a>
         </app-toolbar>
       </app-header>
 
       <iron-pages selected="[[page]]" attr-for-selected="name" fallback-selection="view404" role="main">
         <gdg-home name="home" ticket="[[ticket]]"></gdg-home>
         <gdg-schedule name="schedule" user="{{user}}"></gdg-schedule>
-        <gdg-attending name="attending"></gdg-attending>
+        <!-- <gdg-attending name="attending"></gdg-attending> -->
         <!-- <gdg-registration name="registration"></gdg-registration> -->
         <gdg-communityguidelines name="communityguidelines"></gdg-communityguidelines>
       </iron-pages>
@@ -382,9 +378,6 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
               </div>
               <div class="footer_bottom">
                 <div class="footer_link">
-                  <a aria-label="TensorFlow Dev Summit 2017 Extended" href="https://events.gdgkl.org/tfxkl17/" target="_blank" rel="noopener">
-                    TF Dev Summit '17 Extended
-                  </a>
                   <a aria-label="Community Guidelines" href="[[rootPath]]communityguidelines">
                     Community Guidelines
                   </a>

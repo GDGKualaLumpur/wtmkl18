@@ -1,18 +1,18 @@
 {
     "featuredvideo": [
         {
-            "title": "TensorFlow Dev Summit 2017 Keynote",
-            "url": "https://youtu.be/4n1AHvDvVvw",
+            "title": "Keynote with Angela Taylor",
+            "url": "https://youtu.be/bRMwKuQ8IaE",
             "image": "images/v1.jpg"
         },
         {
-            "title": "Machine Learning for Everyone",
-            "url": "https://youtu.be/mWl45NkFBOc",
+            "title": "Mentorship: Empowered Women Empower Women",
+            "url": "https://youtu.be/gkSkYgEBE_g",
             "image": "images/v2.jpg"
         },
         {
-            "title": "TensorFlow in Medicine - Retinal Imaging ",
-            "url": "https://youtu.be/oOeZ7IgEN4o",
+            "title": "Closing Remarks with Natalie Villalobos ",
+            "url": "https://youtu.be/dL3LjqE-gWU",
             "image": "images/v3.jpg"
         }
     ],

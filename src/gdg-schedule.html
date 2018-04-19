@@ -208,7 +208,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 
       _onUserChanged() {
         if (this.user == null || this.user) {
-          var agendaRef = firebase.database().ref('events_site/tfxkl18/agenda/');
+          var agendaRef = firebase.database().ref('events_site/wtmkl18/agenda/');
           agendaRef.on('value', snapshot => {
             this.set('sessions', snapshot.val())
           })
