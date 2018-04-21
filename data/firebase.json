@@ -1,0 +1,336 @@
+[
+    {
+        "ampm": "A",
+        "session": [
+            {
+                "description": "",
+                "duration": "1 hour",
+                "id": "registration",
+                "location": "",
+                "time": "8:30AM - 9:30AM",
+                "title": "Registration & Breakfast"
+            }
+        ],
+        "time": "830"
+    },
+    {
+        "ampm": "A",
+        "session": [
+            {
+                "description": "",
+                "duration": "20 mins",
+                "id": "opening",
+                "location": "",
+                "speaker": [
+                    {
+                        "description": "TBA",
+                        "name": "Nazlina Quadir",
+                        "picture": "images/profile.jpg",
+                        "title": "WTM KL Lead"
+                    }
+                ],
+                "time": "9:30AM - 9:50AM",
+                "title": "Opening introduction"
+            }
+        ],
+        "time": "930"
+    },
+    {
+        "ampm": "A",
+        "session": [
+            {
+                "description": "",
+                "duration": "40 mins",
+                "id": "strength",
+                "location": "",
+                "speaker": [
+                    {
+                        "description": "Originally from the US, Komal is a 200-hour certified meditation instructor. After her digital marketing career she started her family and quickly realized how easy it was to lose herself to the daily stressors of life. After going down a path of self- discovery, Komal realized that meditation was the answer to many of life’s challenges. Using her own life experiences and the training she received in her certificiation, she works with individuals and groups, to help guide them down the path of leadership through self-awareness. Her genuine and realistic approach to meditation creates an easiness in which anyone can learn.",
+                        "name": "Komal Chopra Jodha",
+                        "picture": "images/profile.jpg",
+                        "title": "Founder, Opportunities of Calm"
+                    }
+                ],
+                "time": "9:50AM - 10:30AM",
+                "title": "Strength Within The Sound Of Silence"
+            }
+        ],
+        "time": "950"
+    },
+    {
+        "ampm": "A",
+        "session": [
+            {
+                "description": "",
+                "duration": "1 hour",
+                "id": "keynote",
+                "location": "",
+                "speaker": [
+                    {
+                        "description": "TBA",
+                        "name": "Rahayu Ramli",
+                        "picture": "images/profile.jpg",
+                        "title": ""
+                    }
+                ],
+                "time": "10:30AM - 11:30AM",
+                "title": "Keynote"
+            }
+        ],
+        "time": "1030"
+    },
+    {
+        "ampm": "A",
+        "session": [
+            {
+                "description": "",
+                "duration": "30 mins",
+                "id": "taking_charge",
+                "location": "",
+                "speaker": [
+                    {
+                        "description": "A no number whiz but a ACCA Fellow member who always had interest in participating in strategic planning &amp; management decision to drive the success of the company. She is currently one of the Finance &amp; Site Director in a US-based MNC company – Advanced Micro Devices Inc. Her passion for travelling does not compromise her work, as it is one of the perks of her job. With her international posting in US &amp; Europe, she comes with vast experience of culture and work globally. After her 7 years of working abroad, she returned to her home country &amp; was entrusted with the task to set up AMD’s Global Marketing Operation team, a function within AMD Global Services Operations Center in Cyberjaya, that serve AMD business partners globally.",
+                        "name": "Hong Bee Yean",
+                        "picture": "images/profile.jpg",
+                        "title": "AMD"
+                    }
+                ],
+                "time": "11:30AM - 12:00PM",
+                "title": "Taking charge of your destiny – being a global citizen"
+            }
+        ],
+        "time": "1130"
+    },
+    {
+        "ampm": "P",
+        "session": [
+            {
+                "description": "",
+                "duration": "2 hours",
+                "id": "lunch",
+                "location": "",
+                "time": "12:00PM - 2:00PM",
+                "title": "Lunch & Networking"
+            }
+        ],
+        "time": "12"
+    },
+    {
+        "ampm": "P",
+        "session": [
+            {
+                "description": "",
+                "duration": "2 hours",
+                "id": "lunch",
+                "location": "",
+                "time": "12:00PM - 2:00PM",
+                "title": "Lunch & Networking"
+            },
+            {
+                "description": "",
+                "duration": "1 hour 30 mins",
+                "id": "codelab1",
+                "location": "",
+                "speaker": [
+                    {
+                        "description": "TBA",
+                        "name": "Qamra Khan",
+                        "picture": "images/profile.jpg",
+                        "title": ""
+                    }
+                ],
+                "time": "1:45PM - 3:15PM",
+                "title": "Codelab 1"
+            }
+        ],
+        "time": "1345"
+    },
+    {
+        "ampm": "P",
+        "session": [
+            {
+                "description": "",
+                "duration": "45 mins",
+                "id": "coding_your_mid",
+                "location": "",
+                "speaker": [
+                    {
+                        "description": "Passionate about making a difference and see positive changes in people so that they have better mindset and attitude, higher emotional intelligence and better ways of connecting with others for better productivity and better life. I have designed JustSpeak English Competency Transformation Programme ie a mindset change and confidence building solution that has helped more than 10,000 non native speakers develop confidence in using English and do public speaking within 2 days. All my workshops uses highly engaging NLP &amp; Accelerated Learning techniques where games, music and arts are used to reprogram the minds of the participants. I started off my career in Banking, Telco Finance and IT, Sales in Financial Industry. Training and coaching became my newfound passion which I discovered by accident after 10 years in the industry.",
+                        "name": "Shadaitul Intan",
+                        "picture": "images/profile.jpg",
+                        "title": ""
+                    }
+                ],
+                "time": "2:00PM - 2:45PM",
+                "title": "Coding your Mind - the science behind NLP"
+            },
+            {
+                "description": "",
+                "duration": "1 hour 30 mins",
+                "id": "codelab1",
+                "location": "",
+                "speaker": [
+                    {
+                        "description": "TBA",
+                        "name": "Qamra Khan",
+                        "picture": "images/profile.jpg",
+                        "title": ""
+                    }
+                ],
+                "time": "1:45PM - 3:15PM",
+                "title": "Codelab 1"
+            }
+        ],
+        "time": "2"
+    },
+    {
+        "ampm": "P",
+        "session": [
+            {
+                "description": "",
+                "duration": "45 mins",
+                "id": "data_driven",
+                "location": "",
+                "speaker": [
+                    {
+                        "description": "Passionate about digital marketing and analytics since she discovered internet and blogging during her teenage years. Graduated as a Systems Engineer from the University of Virginia, she embarked on the digital analytics journey starting with her first job as a digital analytics engineer at Lulu.com in North Carolina, USA. Once she is back in Malaysia, her work experience also involved in helping MAS to return back-to-business as usual for their digital marketing after the MH370 and MH17 incidents. She is also helping mom-entrepreneurs, such as mommoremilk,and milkwithlove, to advertise their products online, and improve their sites performance. Now, as a Spark, she is helping businesses throughout APAC to make data simple, actionable, and scalable.",
+                        "name": "Nursyamsiah Shamsuddin",
+                        "picture": "images/profile.jpg",
+                        "title": "Manager, Clients Success & Account Management, Sparkline"
+                    }
+                ],
+                "time": "2:45PM - 3:30PM",
+                "title": "Being a Data Driven Individual - utilizing free tools out there!"
+            },
+            {
+                "description": "",
+                "duration": "1 hour 30 mins",
+                "id": "codelab1",
+                "location": "",
+                "speaker": [
+                    {
+                        "description": "TBA",
+                        "name": "Qamra Khan",
+                        "picture": "images/profile.jpg",
+                        "title": ""
+                    }
+                ],
+                "time": "1:45PM - 3:15PM",
+                "title": "Codelab 1"
+            }
+        ],
+        "time": "245"
+    },
+    {
+        "ampm": "P",
+        "session": [
+            {
+                "description": "",
+                "duration": "45 mins",
+                "id": "social_media",
+                "location": "",
+                "speaker": [
+                    {
+                        "description": "TBA",
+                        "name": "Mei Ying",
+                        "picture": "images/profile.jpg",
+                        "title": ""
+                    }
+                ],
+                "time": "3:30PM - 4:15PM",
+                "title": "Social Media - TBC"
+            },
+            {
+                "description": "",
+                "duration": "1 hour 30 mins",
+                "id": "codelab2",
+                "location": "",
+                "speaker": [
+                    {
+                        "description": "TBA",
+                        "name": "Tumenbayeva Dara",
+                        "picture": "images/profile.jpg",
+                        "title": "SEEK Asia"
+                    }
+                ],
+                "time": "3:15PM - 4:45PM",
+                "title": "Codelab 2"
+            }
+        ],
+        "time": "330"
+    },
+    {
+        "ampm": "P",
+        "session": [
+            {
+                "description": "",
+                "duration": "45 mins",
+                "id": "cope_with",
+                "location": "",
+                "speaker": [
+                    {
+                        "description": "Founder & startup hustler for YDJ. I’m also a digital designer who is inspired by Steve Job’s philosophy for success. Throughout my years in the digital design field, I feel fortunate to learn and experience all the design technological revolution this field has to offer. I realized that in today’s world, you have to keep innovating in order to keep getting it right.",
+                        "name": "Lee Lai Lian",
+                        "picture": "images/profile.jpg",
+                        "title": ""
+                    }
+                ],
+                "time": "4:15PM - 5:00PM",
+                "title": "How to cope with the hurdles of being a woman entrepreneur"
+            },
+            {
+                "description": "",
+                "duration": "1 hour 30 mins",
+                "id": "codelab2",
+                "location": "",
+                "speaker": [
+                    {
+                        "description": "TBA",
+                        "name": "Tumenbayeva Dara",
+                        "picture": "images/profile.jpg",
+                        "title": "SEEK Asia"
+                    }
+                ],
+                "time": "3:15PM - 4:45PM",
+                "title": "Codelab 2"
+            }
+        ],
+        "time": "415"
+    },
+    {
+        "ampm": "P",
+        "session": [
+            {
+                "description": "",
+                "duration": "15 mins",
+                "id": "closing",
+                "location": "",
+                "speaker": [
+                    {
+                        "description": "TBA",
+                        "name": "Nazlina Quadir",
+                        "picture": "images/profile.jpg",
+                        "title": "WTM KL Lead"
+                    }
+                ],
+                "time": "5:00PM - 5:15PM",
+                "title": "Closing remarks"
+            }
+        ],
+        "time": "5"
+    },
+    {
+        "ampm": "P",
+        "session": [
+            {
+                "description": "",
+                "duration": "45 mins",
+                "id": "tea_break",
+                "location": "",
+                "time": "5:15PM - 6:00PM",
+                "title": "Tea Break"
+            }
+        ],
+        "time": "515"
+    }
+]
